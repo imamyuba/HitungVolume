@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hitung Volume</string>
+    <string name="panjang">Panjang</string>
+    <string name="Tinggi">Tinggi</string>
+    <string name="lebar">Lebar</string>
+    <string name="hasil">hasil</string>
+    <string name="hitung">hitung</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="pindah_activity_dengan_data">pindah activity dengan data</string>
+    <string name="memanggil_dial_number_di_1_aktiviti">memanggil Dial Number di 1 aktiviti</string>
+</resources>
